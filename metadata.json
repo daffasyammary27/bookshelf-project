@@ -1,0 +1,6 @@
+{
+  "name": "Swiss Bookshelf",
+  "description": "A minimalist book discovery application built with Swiss design principles, powered by the Google Books API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
